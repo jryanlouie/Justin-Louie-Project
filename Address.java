@@ -5,6 +5,8 @@ package bcit.comp2501.assignment1.justinlouie;
  * @version 1.0
  */
 
+/* test comment */
+
 public class Address
 {
     private final String unitNumber;
